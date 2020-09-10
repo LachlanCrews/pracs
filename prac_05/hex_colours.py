@@ -1,4 +1,3 @@
-
 COLOUR_CODES = {"aliceblue": "#f0f8ff", "antiquewhite": "#faebd7",
                 "antiquewhite1": "#ffefdb", "antiquewhite2": "#eedfcc",
                 "antiquewhite3": "#cdc0b0", "antiquewhite4": "#8b8378",

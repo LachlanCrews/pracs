@@ -1,4 +1,3 @@
-
 word_count = {}
 text = input("Text: ")
 words = text.split()
