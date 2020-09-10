@@ -1,4 +1,5 @@
-def main():
+d
+ef main():
     email_and_name = {}
     email = input("Email: ")
     while email != "":
