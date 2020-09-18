@@ -15,7 +15,8 @@ def main():
 
 def get_name_from_email(email):
     email_start = email.split('@')[0]
-    email_start_split = email_start.split('.')
+    if "." in email:
+        email_start_split = email_start.split('.')
     name = " ".join(email_start_split).title()
     return name
 
